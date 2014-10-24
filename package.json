@@ -1,0 +1,13 @@
+{
+  "name": "phaser-day2",
+  "version": "1.0.0",
+  "description": "Phaser student demo, day 2",
+  "main": "app.js",
+  "author": "Joy Pratt <joympratt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.0",
+    "morgan": "^1.4.0",
+    "serve-static": "^1.7.0"
+  }
+}
